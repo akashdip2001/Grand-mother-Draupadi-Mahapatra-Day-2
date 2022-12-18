@@ -134,7 +134,7 @@
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 45px 254px 42px auto;
-  padding: 50px 156px 52px 154px;
+  /* padding: 50px 156px 52px 154px; */
 }
 
 @media (max-width: 1199px) {
