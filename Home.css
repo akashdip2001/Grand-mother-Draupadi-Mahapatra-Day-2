@@ -679,7 +679,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1715px;
+    min-height: 0px;
   }
 
   .u-section-2 .u-gallery-1 {
