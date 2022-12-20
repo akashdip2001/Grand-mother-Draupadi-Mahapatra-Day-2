@@ -137,6 +137,14 @@
   /* padding: 50px 156px 52px 154px; */
 }
 
+@media (max-width: 1280px) {
+    .u-section-1 .u-btn-1 {
+    font-size: 4.25rem;
+    margin: 44px 254px 42px 271px;
+    }
+}
+
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 4156px;
