@@ -37,6 +37,12 @@
     background-color: #e41360;
     color: rgb(228, 237, 234);
     border: 2px solid #db115b;
+    }
+
+.button3:hover {
+        background-color: #4a091e;
+        color: white;
+    }
 
 @media (max-width: 1396px) {
     .button {
