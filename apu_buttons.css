@@ -13,7 +13,7 @@
 
 .button1 {
     background-color: #4CAF50;
-    color: white;
+    color: rgb(228, 237, 234);
     border: 2px solid #0b870f;
 }
 
@@ -24,7 +24,7 @@
 
 .button2 {
     background-color: #008CBA;
-    color: white;
+    color: rgb(228, 237, 234);
     border: 2px solid #085771;
 }
 
